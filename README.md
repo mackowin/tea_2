@@ -1,5 +1,5 @@
 # :coffee: Tea Cozy #
-CodeCademy Project: creating a tea shop website
+CodeCademy Project: Creating a tea shop website
 
 ## Table of Contents ##
 * [General Info](#General-Info)
